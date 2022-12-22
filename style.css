@@ -1,0 +1,60 @@
+.heading{
+    color:aquamarine;
+    text-align: center;
+    font-style:italic ;
+    font-family: 'Praise', cursive;
+    font-size:5rem ;
+}
+#initial{
+    background-color:black;
+}
+.player{
+    color:aquamarine;
+    font-size:2rem;
+    position:relative;
+    top:115px;
+    left:187px;
+}
+.dice{
+    color:aquamarine;
+    font-size:1.3rem;
+}
+#p1{
+    position:absolute;
+    top:15rem;
+    left:23rem;
+}
+#p2{
+    position:absolute;
+    
+    top:15rem;
+    left:61rem;
+}
+#dice1{
+    position:absolute;
+    font-size: small;
+    top:25rem;
+    left:22rem;
+}
+#dice2{
+    position:absolute;
+    
+    top:25rem;
+    left:61rem;
+} 
+.btn btn-primary{
+   align-content: center;
+   text-align: justify;
+}
+img{
+    
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+.btn 
+{
+   margin:30rem 45%;
+
+}
